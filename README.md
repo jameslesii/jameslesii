@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/jameslesii">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/james-lesoite/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:jameslesoite20@gmail.com">
     <img src="https://img.shields.io/badge/Email-Work%20With%20Me-00A86B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
