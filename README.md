@@ -95,7 +95,7 @@ I build projects to explore ideas, solve problems, and demonstrate practical ski
       <br/><br/>
       <b>Tools:</b> Python · R · pandas · NumPy · Matplotlib · Excel
       <br/><br/>
-      <a href="https://github.com/YOUR-GITHUB-USERNAME">Explore Projects →</a>
+      <a href="https://github.com/jameslesii">Explore Projects →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Django Web Applications</h3>
@@ -103,7 +103,7 @@ I build projects to explore ideas, solve problems, and demonstrate practical ski
       <br/><br/>
       <b>Tools:</b> Python · Django · Bootstrap · HTML · CSS · JavaScript
       <br/><br/>
-      <a href="https://github.com/YOUR-GITHUB-USERNAME">Explore Projects →</a>
+      <a href="https://github.com/jameslesii">Explore Projects →</a>
     </td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ I build projects to explore ideas, solve problems, and demonstrate practical ski
       <br/><br/>
       <b>Tools:</b> MySQL · SQLite · SQL
       <br/><br/>
-      <a href="https://github.com/YOUR-GITHUB-USERNAME">Explore Projects →</a>
+      <a href="https://github.com/jameslesii">Explore Projects →</a>
     </td>
     <td width="50%" valign="top">
       <h3>💻 Frontend & Digital Solutions</h3>
@@ -121,7 +121,7 @@ I build projects to explore ideas, solve problems, and demonstrate practical ski
       <br/><br/>
       <b>Tools:</b> HTML · CSS · JavaScript · Bootstrap
       <br/><br/>
-      <a href="https://github.com/YOUR-GITHUB-USERNAME">Explore Projects →</a>
+      <a href="https://github.com/jameslesii">Explore Projects →</a>
     </td>
   </tr>
 </table>
@@ -135,12 +135,12 @@ I build projects to explore ideas, solve problems, and demonstrate practical ski
 ## 📈 &nbsp; My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jameslesii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameslesii&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used programming languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="80%" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=jameslesii&theme=tokyonight&hide_border=true" width="80%" alt="GitHub contribution streak"/>
 </p>
 
 ---
@@ -183,10 +183,10 @@ If you have a dataset to analyze, a website to build, a process to improve, or a
   <a href="https://www.linkedin.com/in/james-lesoite/">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:jameslesoite20@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/jameslesii">
     <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
